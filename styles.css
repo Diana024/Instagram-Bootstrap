@@ -1,0 +1,28 @@
+.btn-secondary{
+    border-color: grey;
+}
+
+.btn-danger {
+    border-color: grey;
+}
+
+
+
+#galeria .col-lg-4{
+    margin: 0 !important;
+    padding: 25px;
+}
+
+
+#galeria img{
+    width: 100%;
+    height: 250px;
+}
+
+#galeria img:hover{
+    border: 5px solid rgb(240, 237, 237);
+}
+
+.myTab nav {
+    justify-content: center;
+}
